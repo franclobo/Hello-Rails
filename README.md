@@ -1,5 +1,5 @@
 # Hello-Rails
-My first app with  rails is Hello World
+My first app with rails is Hello World
 
 ## Built With
 
