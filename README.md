@@ -5,7 +5,6 @@ My first app with  rails is Hello World
 
 - Visual Studio Code and GitHub.
 - Ruby on Rails.
-- Linters for Ruby.
 - Gitflow.
 
 ## Getting Started
